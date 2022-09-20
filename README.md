@@ -1,7 +1,10 @@
 ![gif](programming.gif)
 
-<h1 align="center">Hi 👋, I'm AGBETSIASSI KODJO Laboré</h1>
-<h3 align="center">A passionate Full-Stack Developper</h3>
+<h1 align="center">Hi 👋, I'm Laboré 👋 </h1>
+<h3 align="center">A passionate Full-stack Developper</h3>
+
+I am an application developer, I do back-end and front-end programming, and server configuration and management. I hesitate to say "full stack developer", a term popularized some time ago, which has become controversial.
+My job is therefore to create products for the web: it can range from a simple showcase page to a web application. I can wear several hats for the same project. One of my daily tasks is to write Blockchain smart contracts.
 
 <p> <img src="https://komarev.com/ghpvc/?username=starlabman&label=Profile%20views&color=0e75b6&style=flat" alt="starlabman" />  <a href="https://twitter.com/starlabman" target="blank"><img src="https://img.shields.io/twitter/follow/starlabman?logo=twitter&style=for-the-badge" alt="starlabman" /></a> </p>
 
