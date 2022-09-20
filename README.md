@@ -29,6 +29,12 @@
 
 - ⚡ Fun fact **being a developer takes me back in time**
 
+## Find me around the web 🌍
+
+- [**Website**](https://starlabman.alwaysdata.net)
+- [**Twitter**](https://twitter.com/starlabman)
+- [**LinkedIn**](https://www.linkedin.com/in/kodjolaboréagbetsiassi)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
