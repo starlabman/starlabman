@@ -1,3 +1,5 @@
+![gif](programming.gif)
+
 <h1 align="center">Hi 👋, I'm AGBETSIASSI KODJO Laboré</h1>
 <h3 align="center">A passionate Full-Stack Developper</h3>
 
