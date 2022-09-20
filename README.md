@@ -17,15 +17,15 @@
 
 - 🤝 I’m looking for help with **Manage Blockchain Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/starlabman](https://github.com/starlabman)
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/starlabman)
 
-- 📝 I regularly write articles on [https://typefully.com/starlabman/](https://typefully.com/starlabman/)
+- 📝 I regularly write articles on [**Typefully**](https://typefully.com/starlabman/)
 
 - 💬 Ask me about **Reactjs,Laravel, Javascript, Blockchain, Web3, NFT ...**
 
 - 📫 How to reach me **AKODJOLABORE@GMAIL.COM**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFMxIKN7O4/lYfwGkgD5D6Wh7YCTyU7fQ/view?utm_content=DAFMxIKN7O4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFMxIKN7O4/lYfwGkgD5D6Wh7YCTyU7fQ/view?utm_content=DAFMxIKN7O4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [**CV**](https://www.canva.com/design/DAFMxIKN7O4/lYfwGkgD5D6Wh7YCTyU7fQ/view?utm_content=DAFMxIKN7O4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **being a developer takes me back in time**
 
