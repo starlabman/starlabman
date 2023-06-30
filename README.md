@@ -38,8 +38,7 @@ My job is therefore to create products for the web: it can range from a simple s
 - [**LinkedIn**](https://www.linkedin.com/in/kodjolaboréagbetsiassi)
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
