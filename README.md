@@ -37,7 +37,7 @@ My job is therefore to create products for the web: it can range from a simple s
 - [**Twitter**](https://twitter.com/starlabman)
 - [**LinkedIn**](https://www.linkedin.com/in/kodjolaboréagbetsiassi)
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
